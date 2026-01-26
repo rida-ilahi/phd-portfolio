@@ -1,7 +1,3 @@
-# Physics Research
-
-Undergraduate research in complex fluids and soft matter physics at [Your University].
-
 ## Research Interests
 
 - Complex fluids and rheology
